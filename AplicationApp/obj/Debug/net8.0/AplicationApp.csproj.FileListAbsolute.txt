@@ -1,0 +1,12 @@
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\AplicationApp.deps.json
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\AplicationApp.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\AplicationApp.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.AssemblyInfo.cs
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.sourcelink.json
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\refint\AplicationApp.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\ref\AplicationApp.dll
