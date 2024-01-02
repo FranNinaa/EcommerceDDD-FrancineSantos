@@ -10,3 +10,7 @@ C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\bin\Debug\net8.0\Entities.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\bin\Debug\net8.0\Entities.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Domain\obj\Debug\net8.0\Domain.csproj.CopyComplete

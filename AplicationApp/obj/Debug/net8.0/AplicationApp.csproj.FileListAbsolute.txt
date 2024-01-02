@@ -10,3 +10,9 @@ C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationA
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\refint\AplicationApp.dll
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.pdb
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\ref\AplicationApp.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\Domain.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\Entities.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\bin\Debug\net8.0\Entities.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\AplicationApp\obj\Debug\net8.0\AplicationApp.csproj.CopyComplete
