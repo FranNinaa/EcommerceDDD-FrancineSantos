@@ -16,3 +16,5 @@ C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastruct
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastructure\bin\Debug\net8.0\Entities.pdb
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceC-FrancineSantos\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
