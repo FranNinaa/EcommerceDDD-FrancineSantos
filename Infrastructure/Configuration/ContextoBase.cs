@@ -1,10 +1,11 @@
 ﻿using Entities.Entities;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Configuration
 {
-	public class ContextBase : IdentityDbContext<ApplicationUser>
+	public class ContextBase : IdentityDbContext<IdentityUser>
 	{
 		public ContextBase(DbContextOptions<ContextBase> options) : base(options)
 		{
@@ -13,6 +14,9 @@ namespace Infrastructure.Configuration
 		public DbSet<Produto> Produto { get; set; }
 		public DbSet<CompraUsuario> CompraUsuario { get; set; }
 
+		public DbSet<IdentityUser> IdentityUser { get; set; }
+
+		// Configurações para o banco de dados
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
 			if (!optionsBuilder.IsConfigured)
@@ -22,12 +26,14 @@ namespace Infrastructure.Configuration
 			}
 		}
 
+		// Configurações para o banco de dados
 		private string GetStringConectionConfig()
 		{
 			string strCon = "Data Source=DESKTOP-FRAN\\SQLEXPRESS;Initial Catalog=DDD_ECOMMERCE;Integrated Security=True;TrustServerCertificate=True";
 			return strCon;
 		}
 
+		// Configurações para as entidades
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
@@ -62,6 +68,12 @@ namespace Infrastructure.Configuration
 				entity.ToTable("Produtos");
 				entity.Property(e => e.Valor).HasColumnType("decimal(18, 2)");
 			});
+
+			// Configurações para a entidade IdentityUser
+			modelBuilder.Entity<IdentityUser>().ToTable("AspNetUsers").HasKey(t => t.Id);
+			base.OnModelCreating(modelBuilder);
 		}
+
+		
 	}
 }

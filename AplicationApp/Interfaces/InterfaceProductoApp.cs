@@ -9,8 +9,7 @@ namespace AplicationApp.Interfaces
 {
 	public interface InterfaceProductoApp : InterfaceGenericsApp<Produto>
 	{
-		Task AddProducto(Produto produto);
-
-		Task UpdateProducto(Produto produto);
-	}
+        Task AddProduct(Produto produto);
+        Task UpdateProduct(Produto produto);
+    }
 }
