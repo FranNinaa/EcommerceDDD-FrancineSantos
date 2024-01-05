@@ -1,0 +1,45 @@
+﻿using ApplicationApp.Interfaces;
+using Entities.Entities;
+using Entities.Entities.Enums;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+
+namespace Web_ECommerce.Controllers
+{
+    public class CompraUsuarioController : Controller
+    {
+        public readonly UserManager<ApplicationUser> _userManager;
+
+        public readonly InterfaceCompraUsuarioApp _InterfaceCompraUsuarioApp;
+
+        public CompraUsuarioController(UserManager<ApplicationUser> userManager, InterfaceCompraUsuarioApp InterfaceCompraUsuarioApp)
+        {
+            _userManager = userManager;
+            _InterfaceCompraUsuarioApp = InterfaceCompraUsuarioApp;
+        }
+
+        [HttpPost("/api/AdicionarProdutoCarrinho")]
+        public async Task<JsonResult>AdicionarProdutoCarrinho(string id, string nome, string qtd)
+        {
+           var usuario = await _userManager.GetUserAsync(User);
+
+            if (usuario != null)
+            {
+                await _InterfaceCompraUsuarioApp.Add(new CompraUsuario
+                {
+                    IdProduto = int.Parse(id),
+                    QtdCompra = int.Parse(qtd),
+                    Estado = EnumEstadoCompra.Produto_Carrinho,
+                    UserId = usuario.Id,
+                });
+                return Json(new { sucesso = true });
+            }
+
+            return Json(new { sucesso = false });
+
+        }
+
+     }
+ 
+}

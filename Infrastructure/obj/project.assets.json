@@ -5285,11 +5285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5310,11 +5310,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj"
+            "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj"
+            "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj"
             }
           }
         }

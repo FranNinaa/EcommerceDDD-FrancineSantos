@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj": {}
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Web_ECommerce\\Web_ECommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj": {
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\ApplicationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\ApplicationApp.csproj",
         "projectName": "ApplicationApp",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\ApplicationApp.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj"
               }
             }
           }
@@ -61,20 +61,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -84,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj": {
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj"
               }
             }
           }
@@ -138,20 +124,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -161,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj": {
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -223,20 +195,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -246,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,11 +232,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Entities\\Entities.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Entities\\Entities.csproj"
               }
             }
           }
@@ -326,14 +284,14 @@
         }
       }
     },
-    "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj": {
+    "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Web_ECommerce\\Web_ECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Web_ECommerce\\Web_ECommerce.csproj",
         "projectName": "Web_ECommerce",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Web_ECommerce\\Web_ECommerce.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Web_ECommerce\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Web_ECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -354,11 +312,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\ApplicationApp.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\ApplicationApp\\ApplicationApp.csproj"
               },
-              "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

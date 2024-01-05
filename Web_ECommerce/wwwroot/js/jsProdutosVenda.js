@@ -5,7 +5,7 @@ var ObjetoVenda = new Object();
 ObjetoVenda.AdicionarCarrinho = function (idProduto) {
 
     var nome = $("#nome_" + idProduto).val();
-    var qtd = ("#qtd_" + idProduto).val();
+    var qtd = $("#qtd_" + idProduto).val();
 
     $.ajax({
         type: 'POST',
@@ -17,7 +17,11 @@ ObjetoVenda.AdicionarCarrinho = function (idProduto) {
             "id": idProduto, "nome": nome, "qtd": qtd
         },
         success: function (data) {
-
+            if (data.sucesso) {
+                alert("Produto adicionado ao carrinho com sucesso")
+            } else {
+                alert("Usuario ñ logado")
+            }
         }
     });
 

@@ -149,12 +149,7 @@ namespace Web_ECommerce.Controllers
         }
 
 
-        [HttpPost("/api/AdicionarProdutoCarrinho")]
-        public async Task AdicionarProdutoCarrinho(string id, string nome, string qtd)
-        {
-            ////
-            ////
-        }
+        
 
     }
 }

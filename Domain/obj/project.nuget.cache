@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iEgUBonFi8UEuiLGSUerSNlTkao2Ze0V1T6vP8OAw4fGMdc2A9jMQgNrEuA0VOiBZ0c7ZvQIiminuJDSDWozUQ==",
+  "dgSpecHash": "X+NdgCb0ZQYItHClbiM54+h3ShQEIfG8I7iWiZWQE2A0dIJfDwvOiGQoOp2TXZEYbYncGh5tC1qSzC+KsM7v7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",
@@ -28,10 +28,7 @@
     "C:\\Users\\Fran\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\Fran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\Fran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Fran\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Fran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Fran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

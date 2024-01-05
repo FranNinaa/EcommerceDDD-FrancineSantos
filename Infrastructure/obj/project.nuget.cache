@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3NirAx1zILgzNJfZrphaXCZoF0Vm3w7/CvmNvketIKtv8avFPSpKNxY/+c9l6PpzT+UXxAgbtfmUNXFEo7PZEA==",
+  "dgSpecHash": "PYI0zcxie8WbOoqdReAQqb7PLu3KyFo+yIT9gWwNN26v2MQeIPlI5+H7L2ZhScRSDB9Qva37aXz0OTOjsNvY8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fran\\Desktop\\cloneCursoC#\\-E-COMMERCE-AULA-9\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Fran\\Desktop\\clone git\\Estudos C#\\EcommerceDDD-FrancineSantos\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",

@@ -28,3 +28,19 @@ C:\Users\Fran\Desktop\cloneCursoC#\-E-COMMERCE-AULA-9\EcommerceDDD\Infrastructur
 C:\Users\Fran\Desktop\cloneCursoC#\-E-COMMERCE-AULA-9\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 C:\Users\Fran\Desktop\cloneCursoC#\-E-COMMERCE-AULA-9\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Fran\Desktop\cloneCursoC#\-E-COMMERCE-AULA-9\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.sourcelink.json
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
