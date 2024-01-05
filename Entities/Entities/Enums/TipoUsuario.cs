@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Entities.Entities.Enums
 {
-	public enum TipoUsuario
-	{
-		Admnistrador = 1,
-		Comum = 2	
-	}
+    public enum TipoUsuario
+    {
+        Administrador = 1,
+        Comum = 2
+    }
 }
