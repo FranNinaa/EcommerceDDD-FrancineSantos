@@ -42,11 +42,11 @@ namespace Web_ECommerce
             services.AddSingleton(typeof(IGeneric<>), typeof(RepositoryGenerics<>));
             services.AddSingleton<IProduct, RepositoryProduct>();
 
-            // INTERFACE APLICA��O
+            // INTERFACE APLICACAO
             services.AddSingleton<InterfaceProductApp, AppProduct>();
             services.AddSingleton<InterfaceCompraUsuarioApp, AppCompraUsuario>();
 
-            // SERVI�O DOMINIO
+            // SERVICO DOMINIO
             services.AddSingleton<IServiceProduct, ServiceProduct>();
 
             // INTERFACE COMPRA USUARIO

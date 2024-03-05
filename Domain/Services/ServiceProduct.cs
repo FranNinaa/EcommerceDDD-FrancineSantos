@@ -39,7 +39,7 @@ namespace Domain.Services
 
         public async Task<List<Produto>> ListarProdutosComEstoque()
         {
-            return await _IProduct.ListarProdutos(p => p.QtdEstoque > 0);
+            return await  _IProduct.ListarProdutos(p => p.QtdEstoque > 0);
         }
 
         public async Task UpdateProduct(Produto produto)
