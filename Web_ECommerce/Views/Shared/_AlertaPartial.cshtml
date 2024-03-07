@@ -1,0 +1,41 @@
+﻿@{
+    bool sucesso = false;
+    bool alerta = false;
+    bool erro = false;
+    string messagem = string.Empty;
+
+
+    sucesso = ViewBag.Sucesso != null ? ViewBag.Sucesso : false;
+    alerta = ViewBag.Alerta != null ? ViewBag.Alerta : false;
+    erro = ViewBag.Erro != null ? ViewBag.Erro : false;
+    messagem = ViewBag.Mensagem != null ? ViewBag.Mensagem : string.Empty;
+}
+
+@if (sucesso)
+{
+    <div class="alert alert-sucess">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>@messagem</strong>
+    </div>
+}
+
+@if (alerta)
+{
+    <div class="alert alert-warning">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>@messagem</strong>
+    </div>
+}
+
+@if (erro)
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>@messagem</strong>
+    </div>
+}
+
+<div id="AlertaJS">
+
+</div>
+

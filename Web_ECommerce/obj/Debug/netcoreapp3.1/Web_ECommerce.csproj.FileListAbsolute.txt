@@ -619,7 +619,6 @@ C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_EComm
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
-C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -639,3 +638,5 @@ C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_EComm
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.dll
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.pdb
 C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.genruntimeconfig.cache
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AlertaPartial.cshtml.g.cs
+C:\Users\Fran\Desktop\clone git\Estudos C#\EcommerceDDD-FrancineSantos\Web_ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Error.cshtml.g.cs

@@ -3,6 +3,7 @@ using Entities.Entities;
 using Entities.Entities.Enums;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Threading.Tasks;
 
 namespace Web_ECommerce.Controllers
@@ -28,8 +29,8 @@ namespace Web_ECommerce.Controllers
             {
                 await _InterfaceCompraUsuarioApp.Add(new CompraUsuario
                 {
-                    IdProduto = int.Parse(id),
-                    QtdCompra = int.Parse(qtd),
+                    IdProduto = Convert.ToInt32(id),
+                    QtdCompra = Convert.ToInt32(qtd),
                     Estado = EnumEstadoCompra.Produto_Carrinho,
                     UserId = usuario.Id,
                 });
